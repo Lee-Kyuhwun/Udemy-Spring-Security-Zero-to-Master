@@ -1,4 +1,4 @@
-package com.easybytes.springsecuritybasic.controller;
+package com.easybytes.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

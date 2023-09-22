@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5159a0f2-99fa-4071-a857-82c3d05d3e94" name="Changes" comment="" />
+    <list default="true" id="5159a0f2-99fa-4071-a857-82c3d05d3e94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/BalanceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/CardsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/LoansController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/NoticeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/springsecuritybasic/SpringsecuritybasicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/SpringsecuritybasicApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/springsecuritybasic/controller/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/WelcomeController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,31 +33,31 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2VeRgPO7zSu8ynqa161roKaL3p1" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "develop",
-    "last_opened_file_path": "D:/project/Udemy-Spring-Security-Zero-to-Master/springsecuritybasic",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/project/Udemy-Spring-Security-Zero-to-Master/springsecuritybasic&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="SpringsecuritybasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -67,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695194674798</updated>
       <workItem from="1695194674798" duration="267000" />
+      <workItem from="1695339757302" duration="22000" />
     </task>
     <servers />
   </component>
