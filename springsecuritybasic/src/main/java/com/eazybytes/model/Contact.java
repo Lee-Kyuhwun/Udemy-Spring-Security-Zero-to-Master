@@ -76,4 +76,7 @@ public class Contact {
         this.createDt = createDt;
     }
 
+    public void setCreateDt(java.util.Date date) {
+        this.createDt = new Date(date.getTime());
+    }
 }
