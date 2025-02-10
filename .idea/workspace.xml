@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5159a0f2-99fa-4071-a857-82c3d05d3e94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/BalanceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/CardsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/LoansController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/NoticeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/springsecuritybasic/SpringsecuritybasicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/SpringsecuritybasicApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/springsecuritybasic/controller/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springsecuritybasic/src/main/java/com/easybytes/controller/WelcomeController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2VeRgPO7zSu8ynqa161roKaL3p1" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/project/Udemy-Spring-Security-Zero-to-Master/springsecuritybasic&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="SpringsecuritybasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="springsecuritybasic" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.easybytes.springsecuritybasic.SpringsecuritybasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5159a0f2-99fa-4071-a857-82c3d05d3e94" name="Changes" comment="" />
+      <created>1695194674798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695194674798</updated>
+      <workItem from="1695194674798" duration="267000" />
+      <workItem from="1695339757302" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
